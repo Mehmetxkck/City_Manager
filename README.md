@@ -1,10 +1,7 @@
-<img src="https://socialify.git.ci/Mehmetxkck/City_Manager/image?font=Inter&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="City_Manager" width="640" height="320" />
                          
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://app.gemoo.com/share/image-annotation/653776690903023616?codeId=v6akXkdb0ZGNl&origin=imageurlgenerator&card=653776688868786176" alt="Logo" width="80" height="80">
-</a>
+
 <h3 align="center">City Data Manager</h3>
 <p align="center">
 
