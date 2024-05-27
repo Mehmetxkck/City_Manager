@@ -22,14 +22,10 @@ City Data Manager is a Python application designed to manage and display informa
 
 
 
-- [Next](https://nextjs.org)
-- [React](https://reactjs.org)
-- [Vue](https://vuejs.org)
-- [Angular](https://angular.io)
-- [Svelte](https://svelte.dev)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [Python](https://www.python.org/)
+- [PyQt5](https://riverbankcomputing.com/software/pyqt/intro)
+- [Folium](https://python-visualization.github.io/folium/)
+- [CSV](https://docs.python.org/3/library/csv.html)
  ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
