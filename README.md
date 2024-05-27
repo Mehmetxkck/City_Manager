@@ -1,1 +1,1 @@
-# City_Manager
+<img src="https://socialify.git.ci/Mehmetxkck/City_Manager/image?font=Inter&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="City_Manager" width="640" height="320" />
